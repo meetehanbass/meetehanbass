@@ -1,5 +1,5 @@
 # 💫 About Me:
-Preview<br>Hi there 👋, Metehan Baş<br>informatics student<br>Hi, I am Metehan. I am 16, and I am an informatics student in high school.<br><br>Skills: C#/HTML /PYTHON/SQL<br><br>🌱 I’m currently learning SQL<br>📫 How to reach me: metehanbas0@gmail.com
+Preview<br>Hi there  Metehan Baş<br>informatics student<br>Skills: C#/HTML /PYTHON/SQL<br><br>🌱 I’m currently learning SQL<br>📫 How to reach me: metehanbas0@gmail.com
 
 
 ## 🌐 Socials:
